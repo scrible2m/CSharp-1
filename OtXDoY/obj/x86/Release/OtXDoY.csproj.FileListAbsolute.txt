@@ -1,0 +1,3 @@
+/Users/scrible2m/Projects/CSharp_1_1/OtXDoY/bin/Release/OtXDoY.exe
+/Users/scrible2m/Projects/CSharp_1_1/OtXDoY/obj/x86/Release/OtXDoY.csproj.CoreCompileInputs.cache
+/Users/scrible2m/Projects/CSharp_1_1/OtXDoY/obj/x86/Release/OtXDoY.exe

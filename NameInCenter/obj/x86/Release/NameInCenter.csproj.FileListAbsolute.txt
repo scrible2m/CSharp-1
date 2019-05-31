@@ -1,0 +1,3 @@
+/Users/scrible2m/Projects/CSharp_1_1/NameInCenter/bin/Release/NameInCenter.exe
+/Users/scrible2m/Projects/CSharp_1_1/NameInCenter/obj/x86/Release/NameInCenter.csproj.CoreCompileInputs.cache
+/Users/scrible2m/Projects/CSharp_1_1/NameInCenter/obj/x86/Release/NameInCenter.exe

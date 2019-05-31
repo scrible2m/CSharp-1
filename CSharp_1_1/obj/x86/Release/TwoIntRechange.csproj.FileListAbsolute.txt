@@ -1,0 +1,3 @@
+/Users/scrible2m/Projects/CSharp_1_1/CSharp_1_1/bin/Release/CSharp_1_1.exe
+/Users/scrible2m/Projects/CSharp_1_1/CSharp_1_1/obj/x86/Release/TwoIntRechange.csproj.CoreCompileInputs.cache
+/Users/scrible2m/Projects/CSharp_1_1/CSharp_1_1/obj/x86/Release/CSharp_1_1.exe

@@ -1,0 +1,3 @@
+/Users/scrible2m/Projects/CSharp_1_1/Anketa/bin/Release/Anketa.exe
+/Users/scrible2m/Projects/CSharp_1_1/Anketa/obj/x86/Release/Anketa.csproj.CoreCompileInputs.cache
+/Users/scrible2m/Projects/CSharp_1_1/Anketa/obj/x86/Release/Anketa.exe
